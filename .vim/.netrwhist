@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/solaris/ieng9/cs30x/cs30xcw/pa0/.git'
+let g:netrw_dirhist_2='/home/solaris/ieng9/cs30x/cs30xcw/pa3'
+let g:netrw_dirhist_3='/home/solaris/ieng9/cs30x/cs30xcw/pa2'
